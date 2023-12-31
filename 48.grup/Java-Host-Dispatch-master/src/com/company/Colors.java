@@ -2,7 +2,7 @@
 package com.company;
 
 import java.util.ArrayList;
-
+//Renkler
 public class Colors {
     public ArrayList<String> getAllColors() {
         ArrayList<String> colors = new ArrayList<>();
